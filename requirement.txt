@@ -1,0 +1,48 @@
+# Multi-Agent Research System
+# Recommended: Python 3.11+
+#
+# Install with:
+#   python -m venv .venv
+#   .venv\\Scripts\\activate        # Windows PowerShell
+#   pip install -r requirements.txt
+#
+# Keep API keys in a .env file; never commit that file to Git.
+
+# LLM provider (Google Gemini)
+google-genai
+langchain-google-genai
+
+# LangChain: agents, LCEL / Runnables, prompts, chains and document utilities
+langchain
+langchain-core
+langchain-text-splitters
+
+# Multi-agent orchestration and ReAct-style agent workflows
+langgraph
+
+# Web search (Tavily)
+tavily-python
+langchain-tavily
+
+# Web scraping / HTML parsing (BeautifulSoup)
+beautifulsoup4
+requests
+httpx
+lxml
+
+# Configuration, schemas and reliability
+python-dotenv
+pydantic
+tenacity
+typing-extensions
+
+# UI
+streamlit
+
+# Optional but useful for exposing the research system as an API
+fastapi
+uvicorn[standard]
+
+# Development and testing
+pytest
+rich
