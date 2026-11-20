@@ -206,6 +206,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [prakashkumarsingh871-pks](https://github.com/prakashkumarsingh871-pks)
 
 ⭐ If you found this project useful, consider giving it a star!
